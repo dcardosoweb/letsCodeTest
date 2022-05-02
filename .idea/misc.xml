@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/drawable/ic_not_favorite.xml" value="0.2985" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_music.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_top_rated_movies.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/activity_user_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dcard/AndroidStudioProjects/letsCodeTest/app/src/main/res/layout/music_item_list.xml" value="0.37604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
